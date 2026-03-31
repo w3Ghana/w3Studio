@@ -1,1 +1,1 @@
-w3Ghana - Studio application.
+w3Ghana - Studio Application.
